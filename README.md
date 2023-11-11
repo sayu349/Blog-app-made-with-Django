@@ -1,1 +1,0 @@
-# Blog-app-made-with-Django
